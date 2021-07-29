@@ -1,0 +1,4 @@
+﻿2021-07-28 08:15:59.5395|DEBUG|NLogProject.NLog| Debug :  Debug success. : Sum() 
+2021-07-28 08:15:59.6735|INFO|NLogProject.NLog| Info : Sum method passed. Result : 150
+2021-07-29 11:13:03.5328|DEBUG|NLogProject.NLog| Debug :  Debug success. : Sum() 
+2021-07-29 11:13:03.7864|INFO|NLogProject.NLog| Info : Sum method passed. Result : 150
